@@ -64,3 +64,5 @@ src/__pycache__/
 src/components/__pycache__/
 src/services/__pycache__/
 src/utils/__pycache__/
+
+secrets.toml
